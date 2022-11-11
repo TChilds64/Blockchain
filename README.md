@@ -1,7 +1,7 @@
 # Blockchain
 This project is designed to analyze hashes from the Bitcoin blockchain.
 For a given file of hashes, the program completes a frequency analysis for each index of the hash,
-and a string is that represents the most common character at each index.
+and a string is returned that represents the most common character at each index.
 
 
 
